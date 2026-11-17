@@ -1,4 +1,4 @@
-report_date;contract_id;contractor;work_id;title;source_status;status_as_of;completed_at;cancelled_at;original_price;payable_price;paid_direct;paid_general;paid_total;remaining_to_pay
+﻿report_date;contract_id;contractor;work_id;title;source_status;status_as_of;completed_at;cancelled_at;original_price;payable_price;paid_direct;paid_general;paid_total;remaining_to_pay
 2026-11-10;D-1;Студия «Свет»;W-11;Съёмка: весенняя коллекция;done;done;2026-09-20;;100000,00;100000,00;0,00;100000,00;100000,00;0,00
 2026-11-10;D-1;Студия «Свет»;W-12;Съёмка: лето;done;done;2026-10-05;;100000,00;100000,00;0,00;100000,00;100000,00;0,00
 2026-11-10;D-1;Студия «Свет»;W-13;Съёмка: аксессуары;cancelled;cancelled;;2026-10-12;100000,00;0,00;0,00;0,00;0,00;0,00
